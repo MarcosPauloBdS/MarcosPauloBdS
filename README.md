@@ -11,6 +11,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosPauloBdS&show_icons=true" />
 </picture>
+
+<a href="https://github.com/MarcosPauloBdS/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosPauloBdS&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MarcosPauloBdS/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosPauloBdS&repo=convoychat" />
+</a>
      
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
